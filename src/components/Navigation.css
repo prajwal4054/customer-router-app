@@ -1,0 +1,17 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  position: fixed;
+  top: 4px;
+  right: 40px;
+}
+li {
+  padding: 10px;
+}
+.nav-wrapper {
+  background-color: gray;
+}
+a {
+  color: black;
+}
